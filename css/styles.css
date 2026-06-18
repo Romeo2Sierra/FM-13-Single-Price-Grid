@@ -118,6 +118,7 @@ h1 {
 		padding-block: calc(1rem + 0vw);
 		border-radius: calc(0.5rem + 0vw);
 		box-shadow: 0 0.5rem 0.75rem 0 var(--Gray-500-shadow);
+		cursor: pointer;
 	}
 }
 
