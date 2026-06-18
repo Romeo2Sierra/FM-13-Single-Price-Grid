@@ -92,12 +92,12 @@ h2, h3 {
 		align-items: center;
 		gap: calc(0.75rem + 0vw);
 
-		& span:first-child {
+		& .amount {
 			font-weight: bold;
 			font-size: calc(2rem + 0vw);
 		}
 
-		& span:last-child {
+		& .plan {
 			color: var(--Teal-option-text);
 			font-size: calc(0.95rem + 0vw);
 		}
