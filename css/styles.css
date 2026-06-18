@@ -84,7 +84,7 @@ h2, h3 {
 	& div {
 		display: grid;
 		gap: calc(0.4rem + 0vw);
-		margin-block-end: 0.65rem;
+		margin-block-end: calc(0.65rem + 0vw);
 	}
 
 	& .price {
