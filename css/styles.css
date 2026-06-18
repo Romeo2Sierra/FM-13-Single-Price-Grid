@@ -42,15 +42,12 @@ main {
 
 h1 {
 	font-size: clamp(1.225rem, calc(0.866rem + 1.533vw), 1.475rem);
+	color: var(--Teal-500);
+	margin-block-end: calc(1.5rem + 0vw);
 }
 
 h2, h3 {
 	font-size: calc(1.125rem + 0vw);
-}
-
-h1 {
-	color: var(--Teal-500);
-	margin-block-end: calc(1.5rem + 0vw);
 }
 
 .article01 {
